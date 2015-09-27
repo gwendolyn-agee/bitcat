@@ -27,13 +27,6 @@ img {
   background-color: #073642;
   margin-bottom: 60px;
 }
-blockquote {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 60%;
-  font-size: 14px;
-}
 a {
   color: #93A1A1;
   text-decoration: none;
