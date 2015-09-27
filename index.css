@@ -32,6 +32,16 @@ blockquote {
   margin-left: auto;
   margin-right: auto;
   width: 60%;
+}
 a {
+  color: #93A1A1;
   text-decoration: none;
+  -o-transition:.3s;
+    -ms-transition:.3s;
+    -moz-transition:.3s;
+    -webkit-transition:.3s;
+    transition:.3s; */
+}
+a:hover {
+  color: #EEE8D5;
 }
