@@ -1,0 +1,40 @@
+/* Solarized is bae */
+body {
+  font-family: "Open Sans", Sans;
+  background-color: #002B36;
+  color: #93A1A1;
+  font-size: 16px;
+}
+.top {
+  width: 100%;
+  text-align: center;
+  line-height: 20px;
+  padding-bottom: 30px;
+}
+.sub {
+  font-size: 14px;
+}
+h1 {
+  font-size: 50px;
+}
+img {
+  width: 80%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.img-container {
+  background-color: #073642;
+  margin-bottom: 60px;
+}
+blockquote {
+  font: 14px/22px normal helvetica, sans-serif;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 50px;
+  padding-left: 15px;
+  border-left: 3px solid #073642;
+}
+a {
+  text-decoration: none;
+}
